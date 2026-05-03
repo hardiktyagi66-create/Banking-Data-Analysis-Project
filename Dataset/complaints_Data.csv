@@ -1,0 +1,1001 @@
+complaint_id,customer_id,complaint_type,complaint_date,status
+COMP_001,CID_2733,,45857,Open
+COMP_002,CID_1547,Staff Behavior,45996,In Progress
+COMP_003,CID_2402,Online Banking,44817,In Progress
+COMP_004,CID_3145,Staff Behavior,45478,Closed
+COMP_005,CID_1897,Cash Deposit,45900,Open
+COMP_006,CID_647,Cash Deposit,44962,Closed
+COMP_007,CID_3054,Cheque Clearance,45319,Resolved
+COMP_008,CID_3485,Online Banking,45152,Pending
+COMP_009,CID_659,Charges/Fees,44937,Closed
+COMP_010,CID_2681,Cheque Clearance,45994,Resolved
+COMP_011,CID_108,Account Statement,44845,Pending
+COMP_012,CID_3693,Staff Behavior,45841,Resolved
+COMP_013,CID_3274,Staff Behavior,44690,In Progress
+COMP_014,CID_4527,Online Banking,44856,In Progress
+COMP_015,CID_4753,ATM Issue,45032,In Progress
+COMP_016,CID_852,Transaction Failed,46043,Open
+COMP_017,CID_1324,Card Issue,44617,Pending
+COMP_018,CID_4485,Staff Behavior,45835,
+COMP_019,CID_2175,ATM Issue,46076,In Progress
+COMP_020,CID_450,Charges/Fees,46078,Closed
+COMP_021,CID_112,Transaction Failed,45013,Resolved
+COMP_022,CID_4033,ATM Issue,45821,Resolved
+COMP_023,CID_1200,Cash Deposit,45158,Closed
+COMP_024,CID_2570,Account Statement,45999,In Progress
+COMP_025,CID_3296,ATM Issue,45585,Closed
+COMP_026,CID_2610,Cheque Clearance,46024,Closed
+COMP_027,CID_3874,Cheque Clearance,45960,Open
+COMP_028,CID_443,Staff Behavior,45674,Open
+COMP_029,CID_4250,Loan Service,45784,In Progress
+COMP_030,CID_2685,Online Banking,45981,Open
+COMP_031,CID_1016,Fraud/Unauthorized,45899,Open
+COMP_032,CID_1596,Cheque Clearance,46059,Resolved
+COMP_033,CID_1583,Cash Deposit,43789,Escalated
+COMP_034,CID_3127,Online Banking,45616,Resolved
+COMP_035,CID_461,KYC/Documentation,45943,Resolved
+COMP_036,CID_1133,Charges/Fees,45666,Resolved
+COMP_037,CID_2472,Transaction Failed,44686,Closed
+COMP_038,CID_4022,Cash Deposit,46051,Pending
+COMP_039,CID_1006,Cheque Clearance,46074,
+COMP_040,CID_3805,Transaction Failed,45022,Closed
+COMP_041,CID_2296,Loan Service,45549,Closed
+COMP_042,CID_3724,Cash Deposit,46015,In Progress
+COMP_043,CID_2923,Transaction Failed,44352,In Progress
+COMP_044,CID_3526,Online Banking,43703,Pending
+COMP_045,CID_129,Cash Deposit,43354,In Progress
+COMP_046,CID_1081,Account Statement,45287,In Progress
+COMP_047,CID_624,Loan Service,46039,Resolved
+COMP_048,CID_2763,Account Statement,45944,Open
+COMP_049,CID_071,Fraud/Unauthorized,45320,In Progress
+COMP_050,CID_3364,Cash Deposit,45636,Open
+COMP_051,CID_3204,Card Issue,45475,Resolved
+COMP_052,CID_2881,KYC/Documentation,45056,Closed
+COMP_053,CID_878,Transaction Failed,44296,Closed
+COMP_054,CID_4268,Card Issue,45332,Open
+COMP_055,CID_2099,Fraud/Unauthorized,45983,Resolved
+COMP_056,CID_3543,Card Issue,45880,Open
+COMP_057,CID_4197,Cash Deposit,43783,Open
+COMP_058,CID_1129,Card Issue,45467,Pending
+COMP_059,CID_3731,Cash Deposit,44741,In Progress
+COMP_060,CID_2927,Account Statement,45661,
+COMP_061,CID_3191,Card Issue,46072,Pending
+COMP_062,CID_3131,,45847,Open
+COMP_063,CID_1358,Loan Service,45076,In Progress
+COMP_064,CID_994,Charges/Fees,45387,In Progress
+COMP_065,CID_3188,Card Issue,44847,Closed
+COMP_066,CID_1784,Loan Service,45021,Resolved
+COMP_067,CID_1553,Transaction Failed,46079,Closed
+COMP_068,CID_2192,Card Issue,45081,Escalated
+COMP_069,CID_3176,ATM Issue,45677,Escalated
+COMP_070,CID_1456,Account Statement,44876,
+COMP_071,CID_4440,Charges/Fees,44826,In Progress
+COMP_072,CID_1482,,44253,Closed
+COMP_073,CID_837,Cheque Clearance,44499,Pending
+COMP_074,CID_3160,Transaction Failed,44554,Closed
+COMP_075,CID_2237,Transaction Failed,45627,Resolved
+COMP_076,CID_4815,KYC/Documentation,46064,Open
+COMP_077,CID_1309,Fraud/Unauthorized,44297,Pending
+COMP_078,CID_3883,Charges/Fees,45916,Resolved
+COMP_079,CID_477,Account Statement,44749,Resolved
+COMP_080,CID_2861,Card Issue,44261,Resolved
+COMP_081,CID_4466,,45756,Pending
+COMP_082,CID_2044,Charges/Fees,45804,
+COMP_083,CID_2935,Cheque Clearance,45616,Resolved
+COMP_084,CID_2907,Cash Deposit,45711,Pending
+COMP_085,CID_1635,ATM Issue,46059,In Progress
+COMP_086,CID_4849,Fraud/Unauthorized,44468,Resolved
+COMP_087,CID_2179,Loan Service,45581,In Progress
+COMP_088,CID_3175,Account Statement,45920,Open
+COMP_089,CID_835,Cash Deposit,45446,Closed
+COMP_090,CID_3753,Charges/Fees,45687,Resolved
+COMP_091,CID_4987,ATM Issue,45113,Escalated
+COMP_092,CID_358,Card Issue,45791,In Progress
+COMP_093,CID_4347,Charges/Fees,46024,Resolved
+COMP_094,CID_1270,Cheque Clearance,45938,In Progress
+COMP_095,CID_3769,Staff Behavior,45028,Escalated
+COMP_096,CID_4223,Loan Service,44210,Open
+COMP_097,CID_3406,Cash Deposit,44980,Resolved
+COMP_098,CID_3190,KYC/Documentation,45599,Open
+COMP_099,CID_2522,Fraud/Unauthorized,45535,In Progress
+COMP_100,CID_3958,KYC/Documentation,44956,Closed
+COMP_101,CID_3873,Online Banking,45838,Resolved
+COMP_102,CID_1230,Loan Service,43931,Escalated
+COMP_103,CID_310,Charges/Fees,43370,Closed
+COMP_104,CID_005,Online Banking,46076,Open
+COMP_105,CID_860,Cheque Clearance,45149,Closed
+COMP_106,CID_4527,Online Banking,44856,In Progress
+COMP_107,CID_1503,Transaction Failed,44531,Escalated
+COMP_108,CID_2258,Cheque Clearance,45709,Closed
+COMP_109,CID_4320,Cheque Clearance,45336,Closed
+COMP_110,CID_4897,Card Issue,45830,Resolved
+COMP_111,CID_2385,Cheque Clearance,45737,Open
+COMP_112,CID_535,ATM Issue,45939,Open
+COMP_113,CID_3585,Loan Service,45997,Escalated
+COMP_114,CID_3623,Cheque Clearance,44176,In Progress
+COMP_115,CID_3806,Cheque Clearance,45724,Open
+COMP_116,CID_4127,Card Issue,45941,
+COMP_117,CID_3961,Cheque Clearance,44891,Resolved
+COMP_118,CID_4293,Transaction Failed,46025,Escalated
+COMP_119,CID_073,KYC/Documentation,45879,Closed
+COMP_120,CID_634,Online Banking,45667,Resolved
+COMP_121,CID_2664,Account Statement,45903,Open
+COMP_122,CID_4998,Charges/Fees,46049,In Progress
+COMP_123,CID_3763,Card Issue,43340,Resolved
+COMP_124,CID_1328,Transaction Failed,45961,In Progress
+COMP_125,CID_2711,Staff Behavior,44334,In Progress
+COMP_126,CID_3067,ATM Issue,45140,Pending
+COMP_127,CID_3170,Online Banking,45499,
+COMP_128,CID_2912,Card Issue,45203,In Progress
+COMP_129,CID_3191,Card Issue,45553,In Progress
+COMP_130,CID_2734,ATM Issue,45599,Open
+COMP_131,CID_1978,ATM Issue,45235,Resolved
+COMP_132,CID_2474,KYC/Documentation,45784,Resolved
+COMP_133,CID_2861,Card Issue,44261,Resolved
+COMP_134,CID_2402,ATM Issue,45165,Closed
+COMP_135,CID_1055,Account Statement,44802,Open
+COMP_136,CID_2533,Fraud/Unauthorized,44998,Resolved
+COMP_137,CID_3355,Charges/Fees,45994,Closed
+COMP_138,CID_4348,Cash Deposit,45694,Pending
+COMP_139,CID_515,KYC/Documentation,45493,Closed
+COMP_140,CID_2282,Cheque Clearance,45990,Open
+COMP_141,CID_4987,ATM Issue,45113,Escalated
+COMP_142,CID_1913,Cheque Clearance,44998,Resolved
+COMP_143,CID_3909,ATM Issue,45679,Resolved
+COMP_144,CID_1398,Staff Behavior,44409,In Progress
+COMP_145,CID_4291,ATM Issue,45774,Escalated
+COMP_146,CID_4655,Card Issue,45658,Open
+COMP_147,CID_489,Cheque Clearance,43921,In Progress
+COMP_148,CID_4100,KYC/Documentation,44379,Closed
+COMP_149,CID_547,Card Issue,45889,Open
+COMP_150,CID_1820,Account Statement,44523,
+COMP_151,CID_3659,Online Banking,45605,Closed
+COMP_152,CID_936,Online Banking,43709,Closed
+COMP_153,CID_1901,Transaction Failed,44885,Escalated
+COMP_154,CID_477,Account Statement,44749,Resolved
+COMP_155,CID_3349,Online Banking,45303,Closed
+COMP_156,CID_2325,Fraud/Unauthorized,45075,In Progress
+COMP_157,CID_380,Fraud/Unauthorized,45937,Open
+COMP_158,CID_3393,Online Banking,43611,Open
+COMP_159,CID_043,Account Statement,46065,Open
+COMP_160,CID_3151,Staff Behavior,45874,Closed
+COMP_161,CID_3003,Card Issue,45983,
+COMP_162,CID_1247,Card Issue,45822,Open
+COMP_163,CID_3189,ATM Issue,45895,
+COMP_164,CID_2509,Card Issue,45709,
+COMP_165,CID_4655,Card Issue,45658,Open
+COMP_166,CID_3366,Card Issue,45875,Closed
+COMP_167,CID_689,KYC/Documentation,45540,Resolved
+COMP_168,CID_3891,ATM Issue,45994,Open
+COMP_169,CID_4688,Cash Deposit,45346,Resolved
+COMP_170,CID_1411,Fraud/Unauthorized,45979,Resolved
+COMP_171,CID_4854,Card Issue,46054,Pending
+COMP_172,CID_2491,Cheque Clearance,45765,Open
+COMP_173,CID_3672,Account Statement,45890,Closed
+COMP_174,CID_3975,Online Banking,45271,Open
+COMP_175,CID_401,Cash Deposit,45830,Open
+COMP_176,CID_3603,Online Banking,44805,Pending
+COMP_177,CID_3749,Online Banking,44765,Closed
+COMP_178,CID_4874,Staff Behavior,45667,Closed
+COMP_179,CID_3752,Staff Behavior,45248,Closed
+COMP_180,CID_3157,Transaction Failed,43907,Closed
+COMP_181,CID_4302,Staff Behavior,43637,Pending
+COMP_182,CID_4704,Charges/Fees,45534,Resolved
+COMP_183,CID_1278,Cheque Clearance,46049,Resolved
+COMP_184,CID_862,KYC/Documentation,45931,Escalated
+COMP_185,CID_3434,Card Issue,45918,Open
+COMP_186,CID_2527,Staff Behavior,45636,In Progress
+COMP_187,CID_344,,46029,Pending
+COMP_188,CID_4504,Cheque Clearance,45757,Resolved
+COMP_189,CID_1385,Card Issue,44972,Resolved
+COMP_190,CID_2664,Account Statement,45903,Open
+COMP_191,CID_1200,Cash Deposit,45158,Closed
+COMP_192,CID_833,Online Banking,45384,Closed
+COMP_193,CID_1100,Cheque Clearance,44619,Resolved
+COMP_194,CID_2573,Transaction Failed,45597,
+COMP_195,CID_4725,Charges/Fees,44176,Resolved
+COMP_196,CID_1614,KYC/Documentation,44411,Resolved
+COMP_197,CID_703,Online Banking,44586,Resolved
+COMP_198,CID_535,ATM Issue,45939,Open
+COMP_199,CID_2583,Cash Deposit,45454,Closed
+COMP_200,CID_158,Account Statement,46040,Resolved
+COMP_201,CID_520,Cash Deposit,46021,In Progress
+COMP_202,CID_4892,Transaction Failed,45285,Closed
+COMP_203,CID_3606,Account Statement,45146,Escalated
+COMP_204,CID_1531,Transaction Failed,44269,In Progress
+COMP_205,CID_1399,Cheque Clearance,45650,In Progress
+COMP_206,CID_2930,Loan Service,45640,Resolved
+COMP_207,CID_1323,Account Statement,45117,Escalated
+COMP_208,CID_077,Staff Behavior,46046,Closed
+COMP_209,CID_1833,Fraud/Unauthorized,45328,
+COMP_210,CID_4310,Transaction Failed,45818,Closed
+COMP_211,CID_835,Cash Deposit,45446,Closed
+COMP_212,CID_220,Account Statement,45191,Closed
+COMP_213,CID_498,Loan Service,45871,Closed
+COMP_214,CID_412,Transaction Failed,45981,Pending
+COMP_215,CID_4167,Online Banking,45878,Resolved
+COMP_216,CID_460,Card Issue,45695,Resolved
+COMP_217,CID_618,Cheque Clearance,46050,Closed
+COMP_218,CID_1301,Online Banking,45001,Closed
+COMP_219,CID_1868,Staff Behavior,46027,In Progress
+COMP_220,CID_836,,44572,Escalated
+COMP_221,CID_2801,Transaction Failed,45937,Resolved
+COMP_222,CID_4783,Staff Behavior,46085,Resolved
+COMP_223,CID_4504,Cheque Clearance,45757,Resolved
+COMP_224,CID_3841,Charges/Fees,45737,Resolved
+COMP_225,CID_1583,Cash Deposit,43789,Escalated
+COMP_226,CID_4815,Online Banking,46006,Open
+COMP_227,CID_3032,Fraud/Unauthorized,45798,Resolved
+COMP_228,CID_1325,Loan Service,45992,
+COMP_229,CID_4210,Transaction Failed,44216,Resolved
+COMP_230,CID_3355,,46020,Closed
+COMP_231,CID_3805,Loan Service,44756,Open
+COMP_232,CID_3347,Cheque Clearance,45524,Pending
+COMP_233,CID_4070,Transaction Failed,45853,Pending
+COMP_234,CID_1176,KYC/Documentation,45189,Pending
+COMP_235,CID_3014,Online Banking,46040,In Progress
+COMP_236,CID_595,Staff Behavior,45934,Resolved
+COMP_237,CID_2600,Loan Service,45743,Open
+COMP_238,CID_2575,Account Statement,43810,Open
+COMP_239,CID_3014,Online Banking,46040,In Progress
+COMP_240,CID_4320,KYC/Documentation,45689,Resolved
+COMP_241,CID_1230,KYC/Documentation,43840,Resolved
+COMP_242,CID_358,Card Issue,45791,In Progress
+COMP_243,CID_2529,Card Issue,46052,Closed
+COMP_244,CID_1911,Card Issue,46080,Escalated
+COMP_245,CID_4783,Staff Behavior,46085,Resolved
+COMP_246,CID_3942,Online Banking,43954,Resolved
+COMP_247,CID_346,ATM Issue,43458,In Progress
+COMP_248,CID_2791,Charges/Fees,45330,In Progress
+COMP_249,CID_3079,Loan Service,45269,Resolved
+COMP_250,CID_310,Charges/Fees,43370,Closed
+COMP_251,CID_2380,KYC/Documentation,45236,Open
+COMP_252,CID_1772,Account Statement,45785,Resolved
+COMP_253,CID_3443,Account Statement,45811,Closed
+COMP_254,CID_2245,Loan Service,44589,Resolved
+COMP_255,CID_107,Staff Behavior,45918,
+COMP_256,CID_043,ATM Issue,45607,Open
+COMP_257,CID_3848,Cash Deposit,45309,Escalated
+COMP_258,CID_547,Card Issue,45889,Open
+COMP_259,CID_1242,ATM Issue,45828,Resolved
+COMP_260,CID_1203,Account Statement,43583,In Progress
+COMP_261,CID_4614,ATM Issue,45333,Closed
+COMP_262,CID_473,,45830,Closed
+COMP_263,CID_4117,,45922,Resolved
+COMP_264,CID_3580,Fraud/Unauthorized,44663,Escalated
+COMP_265,CID_903,,44010,In Progress
+COMP_266,CID_2614,,45560,Closed
+COMP_267,CID_396,Transaction Failed,45774,Resolved
+COMP_268,CID_331,Charges/Fees,45468,In Progress
+COMP_269,CID_901,Online Banking,45148,Closed
+COMP_270,CID_4340,Staff Behavior,46073,Closed
+COMP_271,CID_3344,Account Statement,45251,Escalated
+COMP_272,CID_752,Charges/Fees,46083,In Progress
+COMP_273,CID_288,Online Banking,45844,Resolved
+COMP_274,CID_3839,Account Statement,45917,Resolved
+COMP_275,CID_1387,ATM Issue,44585,Resolved
+COMP_276,CID_2010,Cheque Clearance,45524,Resolved
+COMP_277,CID_043,ATM Issue,45607,Open
+COMP_278,CID_4746,Account Statement,45968,Pending
+COMP_279,CID_2831,KYC/Documentation,45929,Open
+COMP_280,CID_4867,Cheque Clearance,45323,Pending
+COMP_281,CID_2099,Fraud/Unauthorized,45983,Resolved
+COMP_282,CID_2257,,45996,Closed
+COMP_283,CID_1278,Cheque Clearance,46049,Resolved
+COMP_284,CID_2633,Transaction Failed,45575,Resolved
+COMP_285,CID_3663,Transaction Failed,45871,In Progress
+COMP_286,CID_3119,,43904,Open
+COMP_287,CID_1323,Account Statement,45117,Escalated
+COMP_288,CID_2146,Account Statement,45689,Pending
+COMP_289,CID_3281,Transaction Failed,44662,Closed
+COMP_290,CID_898,Staff Behavior,45806,In Progress
+COMP_291,CID_1806,Cash Deposit,44890,Open
+COMP_292,CID_380,Fraud/Unauthorized,45937,Open
+COMP_293,CID_4897,Online Banking,44529,Closed
+COMP_294,CID_005,Online Banking,46076,Open
+COMP_295,CID_3379,Staff Behavior,45883,Open
+COMP_296,CID_1384,Online Banking,45923,Closed
+COMP_297,CID_4185,KYC/Documentation,45632,Closed
+COMP_298,CID_1079,Transaction Failed,44365,Closed
+COMP_299,CID_1143,Account Statement,44353,Open
+COMP_300,CID_1581,Cash Deposit,45573,Closed
+COMP_301,CID_3491,Cheque Clearance,45579,In Progress
+COMP_302,CID_4678,,45027,In Progress
+COMP_303,CID_2337,Account Statement,44344,Open
+COMP_304,CID_1383,Online Banking,45808,In Progress
+COMP_305,CID_4792,Online Banking,45994,Resolved
+COMP_306,CID_2819,Transaction Failed,44199,Closed
+COMP_307,CID_2637,Card Issue,45657,Open
+COMP_308,CID_2222,Staff Behavior,45423,Open
+COMP_309,CID_1001,Transaction Failed,44996,Pending
+COMP_310,CID_2278,Cash Deposit,45730,In Progress
+COMP_311,CID_1576,Charges/Fees,46069,Closed
+COMP_312,CID_598,Loan Service,44931,Resolved
+COMP_313,CID_2637,Card Issue,45657,Open
+COMP_314,CID_944,KYC/Documentation,45970,Escalated
+COMP_315,CID_2361,Account Statement,45584,In Progress
+COMP_316,CID_1239,KYC/Documentation,44861,In Progress
+COMP_317,CID_732,,44305,Closed
+COMP_318,CID_4685,Account Statement,44902,Open
+COMP_319,CID_1318,KYC/Documentation,45897,In Progress
+COMP_320,CID_461,KYC/Documentation,45943,Resolved
+COMP_321,CID_186,ATM Issue,45726,Open
+COMP_322,CID_4721,Card Issue,45907,Closed
+COMP_323,CID_3191,Card Issue,46072,Pending
+COMP_324,CID_1498,Online Banking,45410,Closed
+COMP_325,CID_2535,Fraud/Unauthorized,44543,Pending
+COMP_326,CID_4030,ATM Issue,43774,Resolved
+COMP_327,CID_2289,Transaction Failed,44570,Open
+COMP_328,CID_1817,Loan Service,45918,Closed
+COMP_329,CID_412,Account Statement,46036,Pending
+COMP_330,CID_1252,Loan Service,45727,Escalated
+COMP_331,CID_1638,Loan Service,43844,In Progress
+COMP_332,CID_3047,Cash Deposit,45776,Pending
+COMP_333,CID_422,Charges/Fees,46037,In Progress
+COMP_334,CID_678,Transaction Failed,46067,Resolved
+COMP_335,CID_4307,KYC/Documentation,45956,Open
+COMP_336,CID_4845,ATM Issue,45603,Resolved
+COMP_337,CID_4070,Transaction Failed,45853,Pending
+COMP_338,CID_4250,Loan Service,45784,In Progress
+COMP_339,CID_2640,Account Statement,44115,Resolved
+COMP_340,CID_3074,Charges/Fees,46090,
+COMP_341,CID_2551,KYC/Documentation,43491,Open
+COMP_342,CID_3215,Account Statement,45382,Closed
+COMP_343,CID_2932,Fraud/Unauthorized,44906,Open
+COMP_344,CID_3304,Loan Service,43507,In Progress
+COMP_345,CID_2499,Online Banking,45581,Pending
+COMP_346,CID_3212,Account Statement,45437,Closed
+COMP_347,CID_3196,KYC/Documentation,45243,Escalated
+COMP_348,CID_3155,Transaction Failed,45512,Resolved
+COMP_349,CID_1924,Cash Deposit,44307,Resolved
+COMP_350,CID_1000,Cheque Clearance,44045,Escalated
+COMP_351,CID_079,Loan Service,46034,Closed
+COMP_352,CID_2503,ATM Issue,43832,Open
+COMP_353,CID_828,Cash Deposit,45371,Open
+COMP_354,CID_2587,Account Statement,45139,In Progress
+COMP_355,CID_978,Account Statement,44219,In Progress
+COMP_356,CID_837,Cheque Clearance,44983,In Progress
+COMP_357,CID_1279,Cheque Clearance,45710,Escalated
+COMP_358,CID_4633,Staff Behavior,44673,Closed
+COMP_359,CID_991,Loan Service,44615,In Progress
+COMP_360,CID_1399,Cheque Clearance,45650,In Progress
+COMP_361,CID_116,Account Statement,45362,In Progress
+COMP_362,CID_1318,KYC/Documentation,45897,In Progress
+COMP_363,CID_4677,Fraud/Unauthorized,45416,Resolved
+COMP_364,CID_3375,Staff Behavior,45857,In Progress
+COMP_365,CID_1172,Staff Behavior,43403,Closed
+COMP_366,CID_2385,Cheque Clearance,45737,Open
+COMP_367,CID_2587,ATM Issue,44576,Resolved
+COMP_368,CID_2216,ATM Issue,45351,Resolved
+COMP_369,CID_2415,Account Statement,43459,Escalated
+COMP_370,CID_3120,Cash Deposit,45575,Closed
+COMP_371,CID_2430,Cash Deposit,46023,Resolved
+COMP_372,CID_4119,KYC/Documentation,44863,Closed
+COMP_373,CID_2863,Card Issue,45879,Closed
+COMP_374,CID_736,ATM Issue,45845,
+COMP_375,CID_2827,Staff Behavior,43914,Open
+COMP_376,CID_773,Account Statement,44572,Open
+COMP_377,CID_4554,Card Issue,45517,Closed
+COMP_378,CID_1423,Fraud/Unauthorized,45919,In Progress
+COMP_379,CID_2082,,44340,Closed
+COMP_380,CID_3303,Fraud/Unauthorized,45449,Closed
+COMP_381,CID_1214,Charges/Fees,45913,Escalated
+COMP_382,CID_3651,Charges/Fees,46025,Closed
+COMP_383,CID_1784,Account Statement,44547,
+COMP_384,CID_1891,,45184,Resolved
+COMP_385,CID_4022,Cash Deposit,46051,Pending
+COMP_386,CID_2188,Account Statement,45337,Escalated
+COMP_387,CID_3246,ATM Issue,44687,Closed
+COMP_388,CID_021,Staff Behavior,45476,Closed
+COMP_389,CID_367,Online Banking,44799,Resolved
+COMP_390,CID_1328,KYC/Documentation,45751,Resolved
+COMP_391,CID_2619,Account Statement,45108,Closed
+COMP_392,CID_2899,Loan Service,43896,Pending
+COMP_393,CID_412,Account Statement,46036,Pending
+COMP_394,CID_418,Fraud/Unauthorized,45954,Escalated
+COMP_395,CID_2096,Transaction Failed,45324,Escalated
+COMP_396,CID_058,Charges/Fees,45821,Closed
+COMP_397,CID_1151,Staff Behavior,45340,Resolved
+COMP_398,CID_350,,45972,In Progress
+COMP_399,CID_1495,Cash Deposit,46017,Open
+COMP_400,CID_619,Card Issue,45599,Closed
+COMP_401,CID_522,Staff Behavior,46024,In Progress
+COMP_402,CID_3203,Charges/Fees,46075,Open
+COMP_403,CID_958,Cash Deposit,45031,Open
+COMP_404,CID_643,Fraud/Unauthorized,46082,Pending
+COMP_405,CID_044,Online Banking,45776,In Progress
+COMP_406,CID_3171,KYC/Documentation,45425,In Progress
+COMP_407,CID_2955,Cash Deposit,45646,Resolved
+COMP_408,CID_471,Fraud/Unauthorized,45532,In Progress
+COMP_409,CID_3805,Transaction Failed,45022,Closed
+COMP_410,CID_2898,Loan Service,46024,Open
+COMP_411,CID_3413,Charges/Fees,46021,In Progress
+COMP_412,CID_2868,KYC/Documentation,43808,Open
+COMP_413,CID_4575,Staff Behavior,46090,Resolved
+COMP_414,CID_1346,Loan Service,45271,Pending
+COMP_415,CID_4006,Transaction Failed,46004,Resolved
+COMP_416,CID_427,KYC/Documentation,45693,In Progress
+COMP_417,CID_3204,Card Issue,45475,Resolved
+COMP_418,CID_3656,Card Issue,45458,Open
+COMP_419,CID_1539,Online Banking,43897,In Progress
+COMP_420,CID_860,Cheque Clearance,45149,Closed
+COMP_421,CID_1564,Charges/Fees,44851,In Progress
+COMP_422,CID_2853,Card Issue,46044,Resolved
+COMP_423,CID_3951,Cash Deposit,45257,Resolved
+COMP_424,CID_3903,Staff Behavior,44455,Pending
+COMP_425,CID_2321,Transaction Failed,45565,Open
+COMP_426,CID_2916,KYC/Documentation,45740,Resolved
+COMP_427,CID_536,Cash Deposit,44799,
+COMP_428,CID_3807,Online Banking,45036,Open
+COMP_429,CID_1929,Online Banking,45489,
+COMP_430,CID_186,Online Banking,45919,Resolved
+COMP_431,CID_1531,Transaction Failed,44269,In Progress
+COMP_432,CID_3143,Card Issue,44305,In Progress
+COMP_433,CID_2487,Online Banking,43512,Pending
+COMP_434,CID_4608,Fraud/Unauthorized,46000,In Progress
+COMP_435,CID_267,Fraud/Unauthorized,45405,In Progress
+COMP_436,CID_790,Charges/Fees,44970,Closed
+COMP_437,CID_2216,ATM Issue,45351,Resolved
+COMP_438,CID_689,KYC/Documentation,45540,Resolved
+COMP_439,CID_1187,Cheque Clearance,46081,Resolved
+COMP_440,CID_2335,Cash Deposit,45950,Resolved
+COMP_441,CID_2923,Transaction Failed,44352,In Progress
+COMP_442,CID_3090,Fraud/Unauthorized,45867,Escalated
+COMP_443,CID_3893,Cheque Clearance,45626,In Progress
+COMP_444,CID_1496,Cash Deposit,44412,Closed
+COMP_445,CID_1919,Card Issue,43816,Resolved
+COMP_446,CID_3355,Charges/Fees,45994,Closed
+COMP_447,CID_2574,Online Banking,44831,Closed
+COMP_448,CID_4818,Transaction Failed,45536,Resolved
+COMP_449,CID_3622,Loan Service,44564,Open
+COMP_450,CID_1435,KYC/Documentation,45918,Resolved
+COMP_451,CID_4874,Staff Behavior,45667,Closed
+COMP_452,CID_4196,KYC/Documentation,45954,Closed
+COMP_453,CID_2651,,45447,Open
+COMP_454,CID_4786,Cheque Clearance,45802,Closed
+COMP_455,CID_1901,ATM Issue,45157,Resolved
+COMP_456,CID_4730,KYC/Documentation,43908,Resolved
+COMP_457,CID_029,Account Statement,45661,Pending
+COMP_458,CID_4922,Cheque Clearance,45527,Closed
+COMP_459,CID_1679,Charges/Fees,45347,Closed
+COMP_460,CID_1938,Fraud/Unauthorized,45350,Resolved
+COMP_461,CID_1463,,44802,Open
+COMP_462,CID_2543,Account Statement,45079,Resolved
+COMP_463,CID_4439,Card Issue,44704,In Progress
+COMP_464,CID_3567,Online Banking,45871,In Progress
+COMP_465,CID_4745,Account Statement,45215,In Progress
+COMP_466,CID_450,ATM Issue,45844,Closed
+COMP_467,CID_648,Charges/Fees,43722,In Progress
+COMP_468,CID_4000,Staff Behavior,45772,Resolved
+COMP_469,CID_461,Online Banking,45919,Closed
+COMP_470,CID_1738,Online Banking,45612,In Progress
+COMP_471,CID_1989,Account Statement,45472,Resolved
+COMP_472,CID_1504,Charges/Fees,46031,In Progress
+COMP_473,CID_1236,Online Banking,43757,Open
+COMP_474,CID_836,Charges/Fees,45619,Escalated
+COMP_475,CID_4822,Online Banking,43637,Open
+COMP_476,CID_535,Cash Deposit,46052,Resolved
+COMP_477,CID_2062,Card Issue,45432,In Progress
+COMP_478,CID_981,Cheque Clearance,43529,In Progress
+COMP_479,CID_1046,Fraud/Unauthorized,46004,Closed
+COMP_480,CID_1346,Loan Service,45271,Pending
+COMP_481,CID_4299,Account Statement,45781,Resolved
+COMP_482,CID_3960,Cheque Clearance,45103,Pending
+COMP_483,CID_1566,Charges/Fees,45858,Escalated
+COMP_484,CID_2207,Loan Service,45241,Escalated
+COMP_485,CID_1252,Loan Service,45727,Escalated
+COMP_486,CID_2585,ATM Issue,45856,Resolved
+COMP_487,CID_1665,Account Statement,45696,Closed
+COMP_488,CID_2930,Loan Service,45209,Pending
+COMP_489,CID_1242,ATM Issue,45828,Resolved
+COMP_490,CID_4815,Online Banking,46006,Open
+COMP_491,CID_3241,Fraud/Unauthorized,45882,Pending
+COMP_492,CID_2361,Account Statement,45418,Closed
+COMP_493,CID_776,Online Banking,44113,Resolved
+COMP_494,CID_4918,Charges/Fees,44642,Closed
+COMP_495,CID_2567,Loan Service,45639,Closed
+COMP_496,CID_074,ATM Issue,43837,Pending
+COMP_497,CID_2103,Fraud/Unauthorized,45681,Resolved
+COMP_498,CID_1700,Transaction Failed,45789,Open
+COMP_499,CID_511,,45423,Pending
+COMP_500,CID_2701,Cash Deposit,46086,In Progress
+COMP_501,CID_1716,Account Statement,45347,Resolved
+COMP_502,CID_3596,Cheque Clearance,44540,Pending
+COMP_503,CID_1309,Fraud/Unauthorized,44297,Pending
+COMP_504,CID_3426,Cash Deposit,45904,Escalated
+COMP_505,CID_2618,Account Statement,45548,Pending
+COMP_506,CID_2935,KYC/Documentation,45711,Closed
+COMP_507,CID_4583,KYC/Documentation,46080,Resolved
+COMP_508,CID_2105,Fraud/Unauthorized,45565,Pending
+COMP_509,CID_3175,Charges/Fees,45679,Resolved
+COMP_510,CID_1418,Cash Deposit,44915,Open
+COMP_511,CID_2854,Online Banking,45639,Closed
+COMP_512,CID_1968,Online Banking,45787,Closed
+COMP_513,CID_1230,Loan Service,43931,Escalated
+COMP_514,CID_4839,Cash Deposit,44261,Escalated
+COMP_515,CID_3219,Cash Deposit,46003,In Progress
+COMP_516,CID_4945,Account Statement,43544,Open
+COMP_517,CID_2476,Fraud/Unauthorized,45366,Open
+COMP_518,CID_100,Transaction Failed,46061,
+COMP_519,CID_2075,ATM Issue,46049,Escalated
+COMP_520,CID_3248,Cash Deposit,46058,Open
+COMP_521,CID_1926,Cash Deposit,44762,Closed
+COMP_522,CID_3892,Charges/Fees,45721,Closed
+COMP_523,CID_2943,Transaction Failed,45350,Resolved
+COMP_524,CID_3393,Online Banking,43611,Open
+COMP_525,CID_1764,,45534,Resolved
+COMP_526,CID_982,Fraud/Unauthorized,44870,Escalated
+COMP_527,CID_3986,Loan Service,45574,Resolved
+COMP_528,CID_3902,Cheque Clearance,44919,Pending
+COMP_529,CID_1470,Cheque Clearance,44734,Closed
+COMP_530,CID_3334,Cheque Clearance,43818,Pending
+COMP_531,CID_4998,Charges/Fees,46049,In Progress
+COMP_532,CID_4685,Staff Behavior,43918,Open
+COMP_533,CID_1879,Account Statement,45800,In Progress
+COMP_534,CID_4599,Fraud/Unauthorized,45699,Closed
+COMP_535,CID_2749,Card Issue,44264,Closed
+COMP_536,CID_1343,Card Issue,44296,In Progress
+COMP_537,CID_4354,Card Issue,46085,Resolved
+COMP_538,CID_3427,Transaction Failed,45928,Resolved
+COMP_539,CID_618,Cheque Clearance,46050,Closed
+COMP_540,CID_1474,Fraud/Unauthorized,45569,Pending
+COMP_541,CID_348,Charges/Fees,45450,Closed
+COMP_542,CID_2899,Loan Service,43896,Pending
+COMP_543,CID_1573,Transaction Failed,45871,Resolved
+COMP_544,CID_2726,Staff Behavior,45165,
+COMP_545,CID_3504,KYC/Documentation,45312,Resolved
+COMP_546,CID_276,Fraud/Unauthorized,44759,Pending
+COMP_547,CID_3892,Charges/Fees,45721,Closed
+COMP_548,CID_3303,KYC/Documentation,45761,Closed
+COMP_549,CID_3791,Account Statement,44867,Closed
+COMP_550,CID_2709,Fraud/Unauthorized,45872,Open
+COMP_551,CID_075,Loan Service,45995,Pending
+COMP_552,CID_3639,Online Banking,43755,In Progress
+COMP_553,CID_348,Charges/Fees,45450,Closed
+COMP_554,CID_3039,Loan Service,43448,Closed
+COMP_555,CID_1791,Transaction Failed,45548,Pending
+COMP_556,CID_1429,Staff Behavior,45759,Resolved
+COMP_557,CID_2044,Fraud/Unauthorized,44867,Resolved
+COMP_558,CID_2538,Account Statement,45119,In Progress
+COMP_559,CID_1077,Fraud/Unauthorized,45305,Resolved
+COMP_560,CID_1747,Online Banking,46074,In Progress
+COMP_561,CID_3243,,45245,Open
+COMP_562,CID_1911,Loan Service,44895,Open
+COMP_563,CID_2881,KYC/Documentation,45056,Closed
+COMP_564,CID_3968,Staff Behavior,45983,Open
+COMP_565,CID_4038,Cheque Clearance,45789,Closed
+COMP_566,CID_045,Cash Deposit,44932,In Progress
+COMP_567,CID_1081,Account Statement,45287,In Progress
+COMP_568,CID_4367,,45671,In Progress
+COMP_569,CID_2899,Staff Behavior,43253,Open
+COMP_570,CID_753,Transaction Failed,44813,Resolved
+COMP_571,CID_2304,Loan Service,44372,Closed
+COMP_572,CID_3832,Online Banking,45690,Resolved
+COMP_573,CID_2954,Staff Behavior,45983,Open
+COMP_574,CID_529,Staff Behavior,45669,Pending
+COMP_575,CID_1723,Charges/Fees,45503,Closed
+COMP_576,CID_4515,Account Statement,45881,Closed
+COMP_577,CID_068,Charges/Fees,45268,Closed
+COMP_578,CID_2895,KYC/Documentation,45780,In Progress
+COMP_579,CID_1633,Card Issue,46085,In Progress
+COMP_580,CID_3323,KYC/Documentation,45802,Open
+COMP_581,CID_1897,,45424,
+COMP_582,CID_1879,Card Issue,45323,Open
+COMP_583,CID_2374,ATM Issue,45427,
+COMP_584,CID_3787,Online Banking,46043,
+COMP_585,CID_1545,Card Issue,44930,Pending
+COMP_586,CID_2361,Account Statement,45584,In Progress
+COMP_587,CID_157,Card Issue,45502,Closed
+COMP_588,CID_3041,Cash Deposit,45327,Open
+COMP_589,CID_2414,Loan Service,45602,
+COMP_590,CID_2081,Staff Behavior,45952,Closed
+COMP_591,CID_451,Cheque Clearance,45706,Pending
+COMP_592,CID_3712,Account Statement,45666,Resolved
+COMP_593,CID_1015,KYC/Documentation,44113,Pending
+COMP_594,CID_4435,,45897,Closed
+COMP_595,CID_3572,Cash Deposit,45776,Open
+COMP_596,CID_658,Cash Deposit,44541,In Progress
+COMP_597,CID_2155,Cash Deposit,45888,Resolved
+COMP_598,CID_2951,,45427,In Progress
+COMP_599,CID_649,Card Issue,45777,Closed
+COMP_600,CID_2210,Transaction Failed,45774,In Progress
+COMP_601,CID_4635,,46083,Resolved
+COMP_602,CID_4574,Card Issue,46006,Resolved
+COMP_603,CID_3046,Online Banking,45389,Resolved
+COMP_604,CID_1205,Account Statement,44622,In Progress
+COMP_605,CID_4008,Staff Behavior,45384,In Progress
+COMP_606,CID_077,Staff Behavior,46046,Closed
+COMP_607,CID_407,Charges/Fees,44186,Resolved
+COMP_608,CID_3760,Online Banking,45545,Resolved
+COMP_609,CID_2541,Staff Behavior,45080,Open
+COMP_610,CID_4754,Cheque Clearance,45908,In Progress
+COMP_611,CID_4952,Online Banking,46042,Resolved
+COMP_612,CID_1454,,45529,In Progress
+COMP_613,CID_007,Fraud/Unauthorized,45910,Open
+COMP_614,CID_3672,Account Statement,45890,Closed
+COMP_615,CID_2472,Transaction Failed,44686,Closed
+COMP_616,CID_978,Loan Service,44696,In Progress
+COMP_617,CID_338,Online Banking,45915,Open
+COMP_618,CID_2380,KYC/Documentation,45448,In Progress
+COMP_619,CID_836,Charges/Fees,45619,Escalated
+COMP_620,CID_1270,Cheque Clearance,45938,In Progress
+COMP_621,CID_2601,KYC/Documentation,43598,Closed
+COMP_622,CID_2402,Online Banking,44817,In Progress
+COMP_623,CID_3148,Fraud/Unauthorized,44554,Open
+COMP_624,CID_2511,Card Issue,44105,Closed
+COMP_625,CID_1665,Cheque Clearance,45247,Resolved
+COMP_626,CID_2668,KYC/Documentation,45148,Escalated
+COMP_627,CID_4970,Cash Deposit,45669,Closed
+COMP_628,CID_2132,Account Statement,45609,Pending
+COMP_629,CID_1058,Loan Service,46058,Open
+COMP_630,CID_2488,Loan Service,45046,Resolved
+COMP_631,CID_1948,ATM Issue,45536,Closed
+COMP_632,CID_3303,Fraud/Unauthorized,45449,Closed
+COMP_633,CID_287,Cash Deposit,45772,Escalated
+COMP_634,CID_4436,Loan Service,44986,Resolved
+COMP_635,CID_3207,Cash Deposit,45918,Closed
+COMP_636,CID_1995,Account Statement,45730,Open
+COMP_637,CID_1684,KYC/Documentation,44748,Pending
+COMP_638,CID_666,Cash Deposit,46005,Resolved
+COMP_639,CID_4077,Cash Deposit,43729,Open
+COMP_640,CID_1641,Account Statement,45886,Closed
+COMP_641,CID_2755,Card Issue,45048,Pending
+COMP_642,CID_3848,Cash Deposit,45309,Escalated
+COMP_643,CID_2448,Charges/Fees,45942,Closed
+COMP_644,CID_506,Fraud/Unauthorized,44843,Pending
+COMP_645,CID_4885,KYC/Documentation,44475,Resolved
+COMP_646,CID_1495,ATM Issue,46078,Closed
+COMP_647,CID_3814,,45815,Closed
+COMP_648,CID_109,Staff Behavior,45409,In Progress
+COMP_649,CID_1280,Cheque Clearance,45357,In Progress
+COMP_650,CID_2555,Cash Deposit,44495,
+COMP_651,CID_3640,Account Statement,45698,Closed
+COMP_652,CID_2923,Account Statement,44811,In Progress
+COMP_653,CID_2601,Loan Service,44914,Resolved
+COMP_654,CID_4627,Loan Service,44539,In Progress
+COMP_655,CID_334,Charges/Fees,45010,Resolved
+COMP_656,CID_3176,ATM Issue,45677,Escalated
+COMP_657,CID_3278,Cash Deposit,43418,Escalated
+COMP_658,CID_2282,Cheque Clearance,45990,Open
+COMP_659,CID_1788,KYC/Documentation,43846,Open
+COMP_660,CID_1433,Staff Behavior,45911,Pending
+COMP_661,CID_2734,ATM Issue,45599,Open
+COMP_662,CID_2431,Loan Service,45437,Closed
+COMP_663,CID_1393,Card Issue,45334,Open
+COMP_664,CID_1860,Fraud/Unauthorized,45079,Escalated
+COMP_665,CID_2519,,45761,Resolved
+COMP_666,CID_4196,Cash Deposit,45448,Resolved
+COMP_667,CID_3144,,45041,Open
+COMP_668,CID_4442,Card Issue,45885,Resolved
+COMP_669,CID_1482,Transaction Failed,44142,Open
+COMP_670,CID_1366,Card Issue,45864,Escalated
+COMP_671,CID_1282,Cash Deposit,43402,Resolved
+COMP_672,CID_4266,ATM Issue,45078,Closed
+COMP_673,CID_444,KYC/Documentation,45391,Escalated
+COMP_674,CID_3894,Fraud/Unauthorized,44546,In Progress
+COMP_675,CID_4993,Staff Behavior,45168,Open
+COMP_676,CID_4102,Loan Service,45380,Closed
+COMP_677,CID_4812,Cash Deposit,45969,Closed
+COMP_678,CID_1541,Staff Behavior,44362,Escalated
+COMP_679,CID_1938,Cheque Clearance,45025,Closed
+COMP_680,CID_2446,Online Banking,46078,Closed
+COMP_681,CID_4335,Transaction Failed,43902,Closed
+COMP_682,CID_1605,Card Issue,45623,Pending
+COMP_683,CID_097,Online Banking,44976,Resolved
+COMP_684,CID_4617,ATM Issue,46060,Resolved
+COMP_685,CID_4775,Transaction Failed,45948,Closed
+COMP_686,CID_065,Fraud/Unauthorized,46038,In Progress
+COMP_687,CID_047,Loan Service,45187,Resolved
+COMP_688,CID_629,Online Banking,45390,Resolved
+COMP_689,CID_1642,Cash Deposit,44601,Pending
+COMP_690,CID_570,Card Issue,45059,
+COMP_691,CID_3574,ATM Issue,44620,Closed
+COMP_692,CID_2264,Transaction Failed,45654,Open
+COMP_693,CID_3262,Staff Behavior,45103,In Progress
+COMP_694,CID_1653,Loan Service,44549,In Progress
+COMP_695,CID_4325,,45316,Closed
+COMP_696,CID_2749,Card Issue,44264,Closed
+COMP_697,CID_1343,KYC/Documentation,45681,In Progress
+COMP_698,CID_3553,Cash Deposit,45346,Open
+COMP_699,CID_2018,Card Issue,45810,In Progress
+COMP_700,CID_1856,KYC/Documentation,45976,Resolved
+COMP_701,CID_845,Transaction Failed,43654,Pending
+COMP_702,CID_745,Cheque Clearance,45087,Resolved
+COMP_703,CID_2833,ATM Issue,45218,In Progress
+COMP_704,CID_948,Card Issue,44890,Closed
+COMP_705,CID_1141,Cash Deposit,45762,Resolved
+COMP_706,CID_264,KYC/Documentation,45832,In Progress
+COMP_707,CID_3199,Transaction Failed,45084,Resolved
+COMP_708,CID_555,Cheque Clearance,45490,
+COMP_709,CID_2624,Cash Deposit,45926,In Progress
+COMP_710,CID_4017,Cash Deposit,44288,
+COMP_711,CID_1953,Staff Behavior,46030,Open
+COMP_712,CID_104,Fraud/Unauthorized,45913,Escalated
+COMP_713,CID_755,Cheque Clearance,45592,In Progress
+COMP_714,CID_2520,Card Issue,45812,Pending
+COMP_715,CID_732,Online Banking,44950,Closed
+COMP_716,CID_462,KYC/Documentation,45099,Pending
+COMP_717,CID_2500,Online Banking,45914,
+COMP_718,CID_2987,Account Statement,45985,
+COMP_719,CID_4314,Cheque Clearance,45871,Closed
+COMP_720,CID_3077,Online Banking,44610,Escalated
+COMP_721,CID_407,Charges/Fees,44186,Resolved
+COMP_722,CID_3827,Fraud/Unauthorized,45697,In Progress
+COMP_723,CID_3597,Transaction Failed,45522,Resolved
+COMP_724,CID_3559,Card Issue,45938,Closed
+COMP_725,CID_2630,Online Banking,45219,Closed
+COMP_726,CID_3443,Account Statement,45811,Closed
+COMP_727,CID_1802,,45211,Resolved
+COMP_728,CID_1951,Charges/Fees,45162,Resolved
+COMP_729,CID_203,Fraud/Unauthorized,45495,In Progress
+COMP_730,CID_4860,Online Banking,44518,Escalated
+COMP_731,CID_3721,Card Issue,46042,Open
+COMP_732,CID_2169,Card Issue,44609,Closed
+COMP_733,CID_3421,Online Banking,45959,Resolved
+COMP_734,CID_1832,Loan Service,43367,Open
+COMP_735,CID_829,Card Issue,44053,Escalated
+COMP_736,CID_1855,,46039,Pending
+COMP_737,CID_1448,Staff Behavior,44424,Escalated
+COMP_738,CID_3412,Loan Service,45632,
+COMP_739,CID_4846,Cash Deposit,44359,
+COMP_740,CID_391,Fraud/Unauthorized,45767,Closed
+COMP_741,CID_4695,Cheque Clearance,44525,Pending
+COMP_742,CID_042,Card Issue,44385,Escalated
+COMP_743,CID_1467,Fraud/Unauthorized,46048,Resolved
+COMP_744,CID_2003,Charges/Fees,45872,Resolved
+COMP_745,CID_1157,Card Issue,46039,Closed
+COMP_746,CID_4647,Online Banking,45392,In Progress
+COMP_747,CID_2880,Charges/Fees,44449,Resolved
+COMP_748,CID_2567,Transaction Failed,44934,Pending
+COMP_749,CID_4027,Staff Behavior,45237,Open
+COMP_750,CID_2372,KYC/Documentation,44503,Pending
+COMP_751,CID_2037,Card Issue,45971,In Progress
+COMP_752,CID_1261,ATM Issue,45567,Closed
+COMP_753,CID_2293,Staff Behavior,45881,Open
+COMP_754,CID_4947,Transaction Failed,45659,Closed
+COMP_755,CID_1627,Cash Deposit,45890,Open
+COMP_756,CID_3191,ATM Issue,45981,In Progress
+COMP_757,CID_2879,,45606,Closed
+COMP_758,CID_1791,Transaction Failed,45548,Pending
+COMP_759,CID_2237,ATM Issue,45951,Resolved
+COMP_760,CID_1889,Card Issue,45976,Escalated
+COMP_761,CID_2134,Charges/Fees,46085,Resolved
+COMP_762,CID_1127,Transaction Failed,45931,Open
+COMP_763,CID_3191,ATM Issue,45063,Open
+COMP_764,CID_4079,Fraud/Unauthorized,46045,Pending
+COMP_765,CID_4408,ATM Issue,45860,In Progress
+COMP_766,CID_1507,KYC/Documentation,45296,Closed
+COMP_767,CID_627,Transaction Failed,44862,Open
+COMP_768,CID_1919,Card Issue,43816,Resolved
+COMP_769,CID_1095,Card Issue,43785,Closed
+COMP_770,CID_2111,ATM Issue,46039,Open
+COMP_771,CID_4553,,45951,Open
+COMP_772,CID_076,Account Statement,45401,Open
+COMP_773,CID_2246,Online Banking,43771,Pending
+COMP_774,CID_2898,Card Issue,45409,In Progress
+COMP_775,CID_2726,ATM Issue,45156,
+COMP_776,CID_4744,Charges/Fees,46036,Pending
+COMP_777,CID_453,Card Issue,44265,Resolved
+COMP_778,CID_3903,Account Statement,43448,
+COMP_779,CID_3660,Transaction Failed,44895,Open
+COMP_780,CID_4638,Cheque Clearance,44854,Pending
+COMP_781,CID_2790,Fraud/Unauthorized,45892,In Progress
+COMP_782,CID_2080,KYC/Documentation,45893,Pending
+COMP_783,CID_4634,Cash Deposit,46079,Escalated
+COMP_784,CID_2711,Staff Behavior,44334,In Progress
+COMP_785,CID_3658,Transaction Failed,45543,Pending
+COMP_786,CID_155,Cash Deposit,45919,Resolved
+COMP_787,CID_3308,Staff Behavior,44901,Resolved
+COMP_788,CID_3226,Cash Deposit,45217,Resolved
+COMP_789,CID_1738,,45645,Resolved
+COMP_790,CID_3347,Online Banking,43853,Resolved
+COMP_791,CID_1496,Cheque Clearance,45916,Open
+COMP_792,CID_244,Account Statement,45629,Escalated
+COMP_793,CID_1291,Cash Deposit,45479,Closed
+COMP_794,CID_2151,Transaction Failed,44439,Open
+COMP_795,CID_4403,Cash Deposit,45893,Resolved
+COMP_796,CID_3561,Card Issue,45904,Closed
+COMP_797,CID_1713,Transaction Failed,45713,Escalated
+COMP_798,CID_4197,Cheque Clearance,43524,Resolved
+COMP_799,CID_823,Account Statement,45891,Closed
+COMP_800,CID_2886,Staff Behavior,44666,In Progress
+COMP_801,CID_4827,KYC/Documentation,45484,Resolved
+COMP_802,CID_3430,Cheque Clearance,44999,Resolved
+COMP_803,CID_027,Loan Service,45311,Closed
+COMP_804,CID_3162,,44229,In Progress
+COMP_805,CID_1456,Fraud/Unauthorized,44942,Pending
+COMP_806,CID_4008,Staff Behavior,45384,In Progress
+COMP_807,CID_011,ATM Issue,44169,In Progress
+COMP_808,CID_624,Loan Service,46039,Resolved
+COMP_809,CID_4717,Charges/Fees,46020,Open
+COMP_810,CID_3191,Card Issue,45553,In Progress
+COMP_811,CID_112,Transaction Failed,45013,Resolved
+COMP_812,CID_3874,Cheque Clearance,45960,Open
+COMP_813,CID_1172,Staff Behavior,43403,Closed
+COMP_814,CID_3542,ATM Issue,45917,Closed
+COMP_815,CID_2606,Charges/Fees,45509,
+COMP_816,CID_3612,KYC/Documentation,44658,Pending
+COMP_817,CID_793,Online Banking,44608,Closed
+COMP_818,CID_778,ATM Issue,45384,
+COMP_819,CID_2611,Cheque Clearance,44691,Closed
+COMP_820,CID_4960,Card Issue,45422,Closed
+COMP_821,CID_3734,Online Banking,44383,Resolved
+COMP_822,CID_2253,Loan Service,44128,Closed
+COMP_823,CID_2992,Charges/Fees,45294,
+COMP_824,CID_3333,ATM Issue,45834,Resolved
+COMP_825,CID_4835,Online Banking,44188,Open
+COMP_826,CID_2699,ATM Issue,46082,Closed
+COMP_827,CID_1187,KYC/Documentation,46054,Resolved
+COMP_828,CID_4849,Fraud/Unauthorized,44468,Resolved
+COMP_829,CID_1644,KYC/Documentation,46030,Closed
+COMP_830,CID_3760,Online Banking,45545,Resolved
+COMP_831,CID_2998,Charges/Fees,44692,Closed
+COMP_832,CID_3685,Transaction Failed,46021,Closed
+COMP_833,CID_4287,Card Issue,45724,Pending
+COMP_834,CID_988,ATM Issue,46016,Resolved
+COMP_835,CID_4102,Cheque Clearance,45134,Closed
+COMP_836,CID_3255,Loan Service,45401,Open
+COMP_837,CID_3728,KYC/Documentation,44306,Resolved
+COMP_838,CID_2056,Charges/Fees,45687,Pending
+COMP_839,CID_4744,Account Statement,46086,Closed
+COMP_840,CID_3969,Transaction Failed,45980,Pending
+COMP_841,CID_632,Staff Behavior,44338,Closed
+COMP_842,CID_3168,Card Issue,45883,Closed
+COMP_843,CID_1835,Loan Service,45800,Closed
+COMP_844,CID_2083,Charges/Fees,45690,Resolved
+COMP_845,CID_1175,Online Banking,44725,Closed
+COMP_846,CID_564,Cash Deposit,45871,Open
+COMP_847,CID_2968,Cheque Clearance,45817,Closed
+COMP_848,CID_3441,Account Statement,43912,Pending
+COMP_849,CID_1899,ATM Issue,44892,Open
+COMP_850,CID_4113,,45589,Closed
+COMP_851,CID_4369,Staff Behavior,45644,In Progress
+COMP_852,CID_2589,Cheque Clearance,44286,Open
+COMP_853,CID_4153,Online Banking,45938,Open
+COMP_854,CID_828,Cash Deposit,45371,Open
+COMP_855,CID_155,Cheque Clearance,45037,Resolved
+COMP_856,CID_2121,,45554,In Progress
+COMP_857,CID_488,,45780,Closed
+COMP_858,CID_2159,Card Issue,45889,In Progress
+COMP_859,CID_1926,Cash Deposit,44762,Closed
+COMP_860,CID_4094,Loan Service,44673,In Progress
+COMP_861,CID_1318,Staff Behavior,45889,Resolved
+COMP_862,CID_2550,Charges/Fees,44249,Pending
+COMP_863,CID_2550,ATM Issue,44539,Resolved
+COMP_864,CID_2419,Loan Service,44867,In Progress
+COMP_865,CID_1456,Fraud/Unauthorized,44942,Pending
+COMP_866,CID_3539,Fraud/Unauthorized,45962,Resolved
+COMP_867,CID_1327,Loan Service,43562,Open
+COMP_868,CID_961,,44432,Pending
+COMP_869,CID_4949,Charges/Fees,44883,Resolved
+COMP_870,CID_3274,Staff Behavior,44690,In Progress
+COMP_871,CID_840,Fraud/Unauthorized,45078,Closed
+COMP_872,CID_2409,Account Statement,45454,Closed
+COMP_873,CID_1615,,44009,Resolved
+COMP_874,CID_4735,Cheque Clearance,45451,Open
+COMP_875,CID_4042,Transaction Failed,45799,Open
+COMP_876,CID_3803,Transaction Failed,45062,Escalated
+COMP_877,CID_4117,Fraud/Unauthorized,45752,Pending
+COMP_878,CID_4471,Cheque Clearance,45858,Open
+COMP_879,CID_2363,,44983,In Progress
+COMP_880,CID_101,Staff Behavior,45871,Closed
+COMP_881,CID_4620,Loan Service,45693,Pending
+COMP_882,CID_3993,Online Banking,44981,Open
+COMP_883,CID_1814,Account Statement,44910,
+COMP_884,CID_2105,Fraud/Unauthorized,45565,Pending
+COMP_885,CID_1884,Card Issue,45856,Closed
+COMP_886,CID_2415,Account Statement,43459,Escalated
+COMP_887,CID_2627,Transaction Failed,44429,Closed
+COMP_888,CID_088,Cheque Clearance,46043,Pending
+COMP_889,CID_2620,Fraud/Unauthorized,45579,Open
+COMP_890,CID_1866,KYC/Documentation,44766,Pending
+COMP_891,CID_2633,ATM Issue,46036,Open
+COMP_892,CID_4307,KYC/Documentation,45956,Open
+COMP_893,CID_4598,Cash Deposit,46090,Open
+COMP_894,CID_4038,KYC/Documentation,46083,Open
+COMP_895,CID_2941,Fraud/Unauthorized,45559,Open
+COMP_896,CID_1554,ATM Issue,43304,Open
+COMP_897,CID_4611,KYC/Documentation,45716,Pending
+COMP_898,CID_2088,Loan Service,45755,
+COMP_899,CID_4836,Cash Deposit,44126,Closed
+COMP_900,CID_2475,Loan Service,45619,Open
+COMP_901,CID_3384,Charges/Fees,44967,Closed
+COMP_902,CID_682,Transaction Failed,45791,Escalated
+COMP_903,CID_3877,Cash Deposit,46051,Resolved
+COMP_904,CID_1699,Fraud/Unauthorized,44341,Open
+COMP_905,CID_4970,Cash Deposit,45669,Closed
+COMP_906,CID_3968,Staff Behavior,45983,Open
+COMP_907,CID_585,Charges/Fees,45697,Closed
+COMP_908,CID_3016,ATM Issue,46016,Resolved
+COMP_909,CID_4645,Charges/Fees,45793,Open
+COMP_910,CID_1064,Transaction Failed,45410,Escalated
+COMP_911,CID_1729,Card Issue,45169,
+COMP_912,CID_710,Staff Behavior,45737,Closed
+COMP_913,CID_2009,KYC/Documentation,45593,
+COMP_914,CID_797,Cheque Clearance,46058,Closed
+COMP_915,CID_4472,Card Issue,45990,Pending
+COMP_916,CID_3433,Cheque Clearance,45592,In Progress
+COMP_917,CID_4033,,45704,In Progress
+COMP_918,CID_2435,Online Banking,45438,In Progress
+COMP_919,CID_3215,Account Statement,45382,Closed
+COMP_920,CID_1868,Staff Behavior,46027,In Progress
+COMP_921,CID_912,Account Statement,45932,Open
+COMP_922,CID_759,,45755,In Progress
+COMP_923,CID_2105,Transaction Failed,45426,Open
+COMP_924,CID_2312,Staff Behavior,45820,Closed
+COMP_925,CID_1303,Online Banking,45675,Closed
+COMP_926,CID_3786,Fraud/Unauthorized,43959,Open
+COMP_927,CID_363,Online Banking,45874,Resolved
+COMP_928,CID_1541,Staff Behavior,44362,Escalated
+COMP_929,CID_219,Card Issue,46078,Escalated
+COMP_930,CID_2491,Cheque Clearance,45765,Open
+COMP_931,CID_3203,Fraud/Unauthorized,46031,
+COMP_932,CID_4843,Cash Deposit,45545,Escalated
+COMP_933,CID_070,Account Statement,46067,Open
+COMP_934,CID_4802,Fraud/Unauthorized,45362,Escalated
+COMP_935,CID_3209,Charges/Fees,45812,Resolved
+COMP_936,CID_4935,Fraud/Unauthorized,44843,Closed
+COMP_937,CID_3272,ATM Issue,46058,
+COMP_938,CID_2734,Account Statement,44573,
+COMP_939,CID_4515,Loan Service,45412,Pending
+COMP_940,CID_3226,Account Statement,44716,Escalated
+COMP_941,CID_3159,Online Banking,45932,Closed
+COMP_942,CID_3800,,44407,Resolved
+COMP_943,CID_4455,Charges/Fees,45668,In Progress
+COMP_944,CID_2074,Charges/Fees,45709,In Progress
+COMP_945,CID_2514,Online Banking,44490,In Progress
+COMP_946,CID_2325,Fraud/Unauthorized,45075,In Progress
+COMP_947,CID_1715,Transaction Failed,45911,Closed
+COMP_948,CID_828,Online Banking,45263,Resolved
+COMP_949,CID_2667,Online Banking,44029,
+COMP_950,CID_017,Transaction Failed,44181,Resolved
+COMP_951,CID_4134,Loan Service,45987,
+COMP_952,CID_1111,Cheque Clearance,44856,
+COMP_953,CID_889,KYC/Documentation,46075,Resolved
+COMP_954,CID_4565,Online Banking,45242,Open
+COMP_955,CID_3110,Cheque Clearance,45422,In Progress
+COMP_956,CID_3724,Account Statement,45562,Resolved
+COMP_957,CID_485,Loan Service,45593,In Progress
+COMP_958,CID_2807,Cash Deposit,45753,Open
+COMP_959,CID_2254,KYC/Documentation,46002,Resolved
+COMP_960,CID_3275,Fraud/Unauthorized,45936,In Progress
+COMP_961,CID_2287,ATM Issue,45091,Resolved
+COMP_962,CID_1244,Transaction Failed,45722,Pending
+COMP_963,CID_3827,KYC/Documentation,45173,Closed
+COMP_964,CID_464,Cash Deposit,45976,Escalated
+COMP_965,CID_2103,Fraud/Unauthorized,45681,Resolved
+COMP_966,CID_1545,KYC/Documentation,44492,Closed
+COMP_967,CID_1811,Transaction Failed,45129,Resolved
+COMP_968,CID_2798,Card Issue,45934,Open
+COMP_969,CID_3883,Charges/Fees,45916,Resolved
+COMP_970,CID_2457,Charges/Fees,43617,In Progress
+COMP_971,CID_4762,Staff Behavior,44572,Open
+COMP_972,CID_756,Charges/Fees,45554,In Progress
+COMP_973,CID_981,Cash Deposit,45085,Resolved
+COMP_974,CID_798,Transaction Failed,46016,Open
+COMP_975,CID_4132,KYC/Documentation,45441,Closed
+COMP_976,CID_4226,Cash Deposit,44859,Resolved
+COMP_977,CID_1368,,44999,Open
+COMP_978,CID_3341,KYC/Documentation,44840,Open
+COMP_979,CID_4540,Loan Service,45251,
+COMP_980,CID_2448,Transaction Failed,45688,Resolved
+COMP_981,CID_124,Charges/Fees,44322,Open
+COMP_982,CID_1238,Account Statement,45716,Resolved
+COMP_983,CID_1991,Transaction Failed,45177,Pending
+COMP_984,CID_1665,Cheque Clearance,45247,Resolved
+COMP_985,CID_3332,,44689,Resolved
+COMP_986,CID_745,Cheque Clearance,45087,Resolved
+COMP_987,CID_3623,Cheque Clearance,44176,In Progress
+COMP_988,CID_3604,Cheque Clearance,45481,Resolved
+COMP_989,CID_151,ATM Issue,44938,Closed
+COMP_990,CID_2477,Card Issue,45958,Open
+COMP_991,CID_1156,Fraud/Unauthorized,45917,Open
+COMP_992,CID_040,Online Banking,45120,Resolved
+COMP_993,CID_3292,Card Issue,44559,Pending
+COMP_994,CID_1806,Charges/Fees,45382,Escalated
+COMP_995,CID_4350,ATM Issue,46002,Closed
+COMP_996,CID_1774,KYC/Documentation,45451,Resolved
+COMP_997,CID_3366,Staff Behavior,45025,Open
+COMP_998,CID_4731,Fraud/Unauthorized,45738,Resolved
+COMP_999,CID_2318,Fraud/Unauthorized,44884,Resolved
+COMP_1000,CID_4807,Charges/Fees,44244,In Progress
